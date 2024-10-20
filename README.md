@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center"> <a align="center" href="https://s.id/standwithpalestine"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg"> </a> </div>
 
-<!--
-**andhika-m/andhika-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1><samp>&gt; Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Andhika Malik</samp></h1>
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="https://media1.tenor.com/m/oM9t2cd32VoAAAAC/one-piece-luffy.gif" width="350" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 *About Me*
+I am a back-end developer, I love Programming, jogging, music and coffee. As a back-end developer, I enjoy it. If you want to get to know me better, please contact me on Linkedln or Instagram.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andhika-malik/)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/andhika.mlk/)
+
+### 🚀 *Technologies*
+
+![Javascript](https://img.shields.io/badge/-Javascript-efd81d?style=for-the-badge&logo=Javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=f9f1e1)
+![Python](https://img.shields.io/badge/python-4584b6?style=for-the-badge&logo=python&logoColor=4584b6&labelColor=ffde57)
+![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=black)
+![Hono](https://img.shields.io/badge/hono-white?style=for-the-badge&logo=hono&logoColor=E36002)
+![Adonis](https://img.shields.io/badge/adonis-5A45FF?style=for-the-badge&logo=adonisjs)
+![Flask](https://img.shields.io/badge/flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)
+![OpenAPI](https://img.shields.io/badge/openapi-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-fff?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Postgres](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTTPie](https://img.shields.io/badge/httpie-white?style=for-the-badge&logo=httpie&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-fff?style=for-the-badge&logo=nginx&logoColor=009639)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai)
+![Gemini](https://img.shields.io/badge/gemini-fff?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
