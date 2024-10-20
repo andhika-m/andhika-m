@@ -2,7 +2,7 @@
 
 <h1><samp>&gt; Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Andhika Malik</samp></h1>
 
-<img align="right" alt="GIF" src="https://media1.tenor.com/m/oM9t2cd32VoAAAAC/one-piece-luffy.gif" width="350" />
+<img align="right" alt="GIF" src="https://media1.tenor.com/m/oM9t2cd32VoAAAAC/one-piece-luffy.gif" width="330" />
 
 ### 📖 *About Me*
 I am a back-end developer, I love Programming, jogging, music and coffee. As a back-end developer, I enjoy it. If you want to get to know me better, please contact me on Linkedln or Instagram.
