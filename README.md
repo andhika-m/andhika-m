@@ -1,10 +1,12 @@
 <div align="center"> <a align="center" href="https://s.id/standwithpalestine"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg"> </a> </div>
 
-<h1><samp>&gt; Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Andhika Malik</samp></h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Honk&color=47A248&size=45&center=true&vCenter=true&width=500&height=70&duration=4050&lines=Hi+There!+👋;+I'm+Andhika+Malik!;" />
+</h1>
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/m/oM9t2cd32VoAAAAC/one-piece-luffy.gif" width="330" />
 
-### 📖 *About Me*
+### 📖 *About Me* 
 I am a back-end developer, I love Programming, jogging, music and coffee. As a back-end developer, I enjoy it. If you want to get to know me better, please contact me on Linkedln or Instagram.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andhika-malik/)
@@ -21,10 +23,10 @@ I am a back-end developer, I love Programming, jogging, music and coffee. As a b
 ![Hono](https://img.shields.io/badge/hono-white?style=for-the-badge&logo=hono&logoColor=E36002)
 ![Adonis](https://img.shields.io/badge/adonis-5A45FF?style=for-the-badge&logo=adonisjs)
 ![Flask](https://img.shields.io/badge/flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)
-![OpenAPI](https://img.shields.io/badge/openapi-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-fff?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Postgres](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/openapi-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![HTTPie](https://img.shields.io/badge/httpie-white?style=for-the-badge&logo=httpie&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-fff?style=for-the-badge&logo=nginx&logoColor=009639)
