@@ -16,11 +16,9 @@ I am a back-end developer, I love Programming, jogging, music and coffee. As a b
 
 ![Javascript](https://img.shields.io/badge/-Javascript-efd81d?style=for-the-badge&logo=Javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bun](https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=f9f1e1)
 ![Python](https://img.shields.io/badge/python-4584b6?style=for-the-badge&logo=python&logoColor=4584b6&labelColor=ffde57)
 ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=black)
-![Hono](https://img.shields.io/badge/hono-white?style=for-the-badge&logo=hono&logoColor=E36002)
 ![Adonis](https://img.shields.io/badge/adonis-5A45FF?style=for-the-badge&logo=adonisjs)
 ![Flask](https://img.shields.io/badge/flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/mongodb-fff?style=for-the-badge&logo=mongodb&logoColor=47A248)
