@@ -28,5 +28,3 @@ I am a back-end developer, I love Programming, jogging, music and coffee. As a b
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![HTTPie](https://img.shields.io/badge/httpie-white?style=for-the-badge&logo=httpie&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-fff?style=for-the-badge&logo=nginx&logoColor=009639)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai)
-![Gemini](https://img.shields.io/badge/gemini-fff?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
