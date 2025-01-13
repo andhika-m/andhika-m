@@ -15,6 +15,7 @@ I am a back-end developer, I love Programming, jogging, music and coffee. As a b
 ### 🚀 *Technologies*
 
 ![Javascript](https://img.shields.io/badge/-Javascript-efd81d?style=for-the-badge&logo=Javascript&logoColor=black)
+![Javascript](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/python-4584b6?style=for-the-badge&logo=python&logoColor=4584b6&labelColor=ffde57)
 ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
