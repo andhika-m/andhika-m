@@ -21,6 +21,7 @@ I am a back-end developer, I love Programming, jogging, music and coffee. As a b
 ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=black)
 ![Adonis](https://img.shields.io/badge/adonis-5A45FF?style=for-the-badge&logo=adonisjs)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/fastapi-ffffff?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/mongodb-fff?style=for-the-badge&logo=mongodb&logoColor=47A248)
@@ -30,3 +31,5 @@ I am a back-end developer, I love Programming, jogging, music and coffee. As a b
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![HTTPie](https://img.shields.io/badge/httpie-white?style=for-the-badge&logo=httpie&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-fff?style=for-the-badge&logo=nginx&logoColor=009639)
+![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
