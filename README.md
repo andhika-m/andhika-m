@@ -21,6 +21,7 @@ I am a back-end developer, I love Programming, jogging, music and coffee. As a b
 ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=black)
 ![Adonis](https://img.shields.io/badge/adonis-5A45FF?style=for-the-badge&logo=adonisjs)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/mongodb-fff?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Postgres](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
