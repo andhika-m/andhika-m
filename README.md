@@ -20,7 +20,7 @@ I am a back-end developer, I love Programming, jogging, music and coffee. As a b
 ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=black)
 ![Adonis](https://img.shields.io/badge/adonis-5A45FF?style=for-the-badge&logo=adonisjs)
-![React]([https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/react-24292e?style=for-the-badge&logo=react&logoColor=61DAFB))
+![React](https://img.shields.io/badge/react-24292e?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/fastapi-ffffff?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
