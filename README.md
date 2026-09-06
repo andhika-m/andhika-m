@@ -11,7 +11,7 @@ I am an engineering enthusiast specializing in DevOps and AI/ML. I love programm
 
 If you want to get to know me better or discuss interesting infrastructure challenges, please contact me on LinkedIn or Instagram!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andhika-malik/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andhikamalik/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/andhika.mlk/)
 
 ### 🚀 *Technologies*
