@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://media1.tenor.com/m/oM9t2cd32VoAAAAC/one-piece-luffy.gif" width="330" />
 
 ### 📖 *About Me* 
-I am an engineering enthusiast specializing in DevOps, Automation, and AI/ML. I love programming, tinkering with self-hosted homelabs, jogging, music, and coffee. I deeply enjoy architecting reliable systems and pipelines. 
+I am an engineering enthusiast specializing in DevOps and AI/ML. I love programming, tinkering with self-hosted homelabs, jogging, music, and coffee. I deeply enjoy architecting reliable systems and pipelines. 
 
 If you want to get to know me better or discuss interesting infrastructure challenges, please contact me on LinkedIn or Instagram!
 
